@@ -2,6 +2,7 @@
   "name": "muffin-man-bakery",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://SanilPatwa.github.io/muffin-man/",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -23,4 +24,3 @@
     "vite": "^5.0.8"
   }
 }
-
